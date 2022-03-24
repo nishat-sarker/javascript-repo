@@ -18,3 +18,10 @@ console.log(firstName.toLowerCase()); //using toLowerCase method
 let universityName = "Estern";
 universityName = universityName.slice(0,5); //using slice method
 console.log(universityName);
+
+let collageName = "Milestone"
+collageName = collageName.slice(0,5); //using slice method
+console.log(collageName);
+
+const nishatAge = 65;
+console.log(nishatAge);
