@@ -24,10 +24,15 @@ collageName = collageName.slice(0,5); //using slice method
 console.log(collageName);
 
 
-const nishatAge = 65;
-console.log(nishatAge);
 
+//Practics
+let schoolName = "   Milestone School   ";
+console.log(schoolName);
+schoolName = schoolName.trim();
+console.log(schoolName);
+console.log("Total index: " + schoolName.length);
+console.log(typeof(schoolName));
+console.log(schoolName.length-1);
 
-
-const schoolName = "   Milestone School   ";
-consolelog(schoolName);
+schoolName = schoolName.slice(0,4);
+console.log(schoolName);
