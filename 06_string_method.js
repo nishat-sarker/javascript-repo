@@ -26,3 +26,8 @@ console.log(collageName);
 
 const nishatAge = 65;
 console.log(nishatAge);
+
+
+
+const schoolName = "   Milestone School   ";
+consolelog(schoolName);
