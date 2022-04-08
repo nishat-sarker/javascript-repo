@@ -8,7 +8,7 @@ if(age>=18){
 else{
     drink = "Juise";
 }
-console.log(drink)
+console.log(drink);
 
 
 
